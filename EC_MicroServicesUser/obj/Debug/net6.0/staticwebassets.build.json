@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "Fd2M9aYl800IoZRjZ/7XVKsREf9FOr7fJow+OfP/tAY=",
+  "Source": "EC_MicroServicesUser",
+  "BasePath": "_content/EC_MicroServicesUser",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
